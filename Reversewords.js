@@ -2,6 +2,7 @@
 // kata: Reverse words
 // My solution:
 function reverseWords(str) {
-  // Go for it
+  // Go for itgit 
   return str.split(' ').map(word => word.split('').reverse().join('')).join(' ')
 }
+
