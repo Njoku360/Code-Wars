@@ -7,4 +7,4 @@ const reverseSeq = n => {
     array.push(i)
   }
   return array;
-};
+};cd 
