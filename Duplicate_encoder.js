@@ -14,3 +14,5 @@ function duplicateEncode(word){
   }
   return result  
 }
+
+// DESKTOP-T6Q6U8G
