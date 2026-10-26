@@ -10,3 +10,5 @@ var number=function(array){
   }
   return arr
 }
+
+const number = (lines) => lines.map((line, index) => `${index + 1}: ${line}`);
