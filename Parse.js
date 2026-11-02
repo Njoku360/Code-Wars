@@ -2,4 +2,4 @@
 // kata: Parse nice integer for character's problem
 // My solution:
 // return the girl's correct age as an integer. Happy coding
-const getAge = (inputString) => Number(inputString[0])
+function getAge(inputString){ Number(inputString[0])}
