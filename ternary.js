@@ -1,0 +1,1 @@
+const yesNo = (l) => l === 'a' ? true : false
